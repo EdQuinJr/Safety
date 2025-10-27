@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Safety Issues Portal App Config">b4dd7e8a073c7210dffee1ebebeaa1c5</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>Attachments</name>
+        <optional_parameters/>
+        <order>300</order>
+        <parent_macroponent display_value="Record Page(task)">4ddd7e8a9a3c721038d0937877f91bf1</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_attachment</route_type>
+        <screen_type display_value="Attachments">41dd7e8aca3c721015edbb003e935ef1</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+        <sys_id>c5dd7e8a403c72105fbf4d8e40b1b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_app_route_c5dd7e8a403c72105fbf4d8e40b1b6f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 18:45:33</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5dd7e8a403c72105fbf4d8e40b1b6f1"/>
+</record_update>

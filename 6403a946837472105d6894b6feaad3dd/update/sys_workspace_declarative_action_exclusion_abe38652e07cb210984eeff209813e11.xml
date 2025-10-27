@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_workspace_declarative_action_exclusion">
+    <sys_workspace_declarative_action_exclusion action="INSERT_OR_UPDATE">
+        <action_assignment display_value="open_record">172e2043534310108135ddeeff7b12dd</action_assignment>
+        <exclude_all_child_tables>false</exclude_all_child_tables>
+        <exclude_self>false</exclude_self>
+        <sys_class_name>sys_workspace_declarative_action_exclusion</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 09:11:02</sys_created_on>
+        <sys_id>abe38652e07cb210984eeff209813e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_workspace_declarative_action_exclusion_abe38652e07cb210984eeff209813e11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 09:11:02</sys_updated_on>
+        <table/>
+        <view display_value="2_custom_portal_approval_x_1604622_safety" name="2_custom_portal_approval_x_1604622_safety">ebe38652307cb210e33b2ada30aacd40</view>
+    </sys_workspace_declarative_action_exclusion>
+</record_update>

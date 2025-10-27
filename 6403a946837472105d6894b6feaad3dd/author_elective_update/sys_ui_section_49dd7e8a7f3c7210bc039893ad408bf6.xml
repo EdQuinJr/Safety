@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="49dd7e8a7f3c7210bc039893ad408bf6" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1604622_safety">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+            <sys_id>cddd7e8a293c7210bbbc69681f7a2ff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 18:45:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+            <sys_id>81dd7e8a473c72104927f2ae92ccfaf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 18:45:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+            <sys_id>85dd7e8a133c7210d850487794e60cf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 18:45:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49dd7e8a7f3c7210bc039893ad408bf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+            <sys_update_name>sys_ui_section_49dd7e8a7f3c7210bc039893ad408bf6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 18:45:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1604622_safety)" name="custom_portal_settings_x_1604622_safety">0ddd7e8ade3c7210a16406acc391daf6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">6403a946837472105d6894b6feaad3dd</application>
+        <file_path/>
+        <instance_id>70a900d01b96fdd439a54089bd4bcb0f</instance_id>
+        <instance_name>dev198543</instance_name>
+        <name>sys_ui_section_49dd7e8a7f3c7210bc039893ad408bf6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="49dd7e8a7f3c7210bc039893ad408bf6" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1604622_safety"><sys_ui_element action="INSERT_OR_UPDATE"><element>time_zone</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 18:45:33</sys_created_on><sys_id>cddd7e8a293c7210bbbc69681f7a2ff6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 18:45:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 18:45:33</sys_created_on><sys_id>81dd7e8a473c72104927f2ae92ccfaf7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 18:45:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_language</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 18:45:33</sys_created_on><sys_id>85dd7e8a133c7210d850487794e60cf5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="0ddd7e8ade3c7210a16406acc391daf6">49dd7e8a7f3c7210bc039893ad408bf6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 18:45:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 18:45:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>49dd7e8a7f3c7210bc039893ad408bf6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user</sys_name><sys_overrides/><sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package><sys_policy/><sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope><sys_update_name>sys_ui_section_49dd7e8a7f3c7210bc039893ad408bf6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 18:45:33</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal settings (x_1604622_safety)" name="custom_portal_settings_x_1604622_safety">0ddd7e8ade3c7210a16406acc391daf6</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>291963605</payload_hash>
+        <record_name>User</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 19:24:45</sys_created_on>
+        <sys_id>f8d687c6837c72105d6894b6feaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a21faf2da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 19:24:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b8d687c6697c721053f1c1d92f08d3a3</update_guid>
+        <update_guid_history>b8d687c6697c721053f1c1d92f08d3a3:291963605</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 19:24:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>35fb66db9c134f108fe73236e7446f59</sys_id>
+        <sys_metadata>49dd7e8a7f3c7210bc039893ad408bf6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_parent display_value="Sys User">5abae932f13322108bb2efdbde054cb5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_scope_delete display_value="">3f628dc2593f470ea1589eabf4246864</sys_scope_delete>
+        <sys_update_name>sys_ui_section_49dd7e8a7f3c7210bc039893ad408bf6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_49dd7e8a7f3c7210bc039893ad408bf6">f8d687c6837c72105d6894b6feaad3a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 19:24:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

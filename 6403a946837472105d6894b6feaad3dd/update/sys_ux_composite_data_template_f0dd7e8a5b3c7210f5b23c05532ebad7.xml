@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template">
+    <sys_ux_composite_data_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Item produced template</name>
+        <sys_class_name>sys_ux_composite_data_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 18:45:32</sys_created_on>
+        <sys_id>f0dd7e8a5b3c7210f5b23c05532ebad7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item produced template</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_f0dd7e8a5b3c7210f5b23c05532ebad7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 18:45:32</sys_updated_on>
+        <template>{&#13;
+	"component": "now-card-evam-record",&#13;
+	"staticValues": {&#13;
+		"highlightedHeaderIcon": {&#13;
+            "translatable": false,&#13;
+            "key": "clock-outline"&#13;
+        },&#13;
+        "highlightedHeaderBkgColor": {&#13;
+            "translatable": false,&#13;
+            "key": "positive"&#13;
+        },&#13;
+        "detailLabelOne": {&#13;
+            "translatable": true,&#13;
+            "key": "State"&#13;
+        },&#13;
+        "detailLabelTwo": {&#13;
+            "translatable": true,&#13;
+            "key": "Number"&#13;
+        }&#13;
+	},&#13;
+	"mappings": {&#13;
+		"highlightedHeaderLabel": "due_date",&#13;
+        "titleLabel": "short_description",&#13;
+        "detailValueOne": "state",&#13;
+        "detailValueTwo": "number" &#13;
+	},&#13;
+	"actionMappings": {&#13;
+		"clickAction": "navigation"&#13;
+	}&#13;
+}</template>
+    </sys_ux_composite_data_template>
+</record_update>

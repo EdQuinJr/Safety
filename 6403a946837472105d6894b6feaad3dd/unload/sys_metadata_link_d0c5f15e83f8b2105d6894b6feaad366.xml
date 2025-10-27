@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>1bed85eb771220104fdc5ed99910617c</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Lato">649bcd6b771220104fdc5ed9991061e1</asset>
+        <properties>{&#13;
+    "font-style":"italic",&#13;
+    "font-weight": "bold"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-19 02:21:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1bed85eb771220104fdc5ed99910617c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="UX Framework" source="com.glide.uxbuilder">9f0b2536f13322108bb2efdbde054cc3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_1bed85eb771220104fdc5ed99910617c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-19 02:21:36</sys_updated_on>
+        <theme display_value="">4b862f9d076920105fca5d1aead300fc</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 08:09:02</sys_created_on>
+        <sys_id>d0c5f15e83f8b2105d6894b6feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_metadata_link_d0c5f15e83f8b2105d6894b6feaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 08:09:02</sys_updated_on>
+        <tablename>sys_ux_theme_m2m_asset</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">01dd7e8a5a3c72105177125d7e41dffc</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 18:45:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c1dd7e8ae03c7210c862e7d8c560bafc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>m2m_app_config_theme_c1dd7e8ae03c7210c862e7d8c560bafc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 18:45:29</sys_updated_on>
+        <theme display_value="Light Theme">49dd7e8a5e3c7210392eca8dda52cbfc</theme>
+        <ux_app_configuration display_value="Safety Issues Portal App Config">b4dd7e8a073c7210dffee1ebebeaa1c5</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

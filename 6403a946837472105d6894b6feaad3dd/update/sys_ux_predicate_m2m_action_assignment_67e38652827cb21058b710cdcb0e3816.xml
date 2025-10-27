@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">6fe38652127cb2104365640ad30c1245</declarative_action_assignment>
+        <predicate display_value="My Tasks">abe38652fe7cb210159faf13490b6d20</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 09:11:01</sys_created_on>
+        <sys_id>67e38652827cb21058b710cdcb0e3816</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_67e38652827cb21058b710cdcb0e3816</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 09:11:01</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Order success">49dd7e8a983c7210fda289ba1ca038e6</macroponent>
+        <name>Home redirection</name>
+        <preset/>
+        <required_translations>[]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const route ="safety-home";
+    api.emit('NAV_ITEM_SELECTED', {
+        route,
+        params: {
+            refresh: Date.now()
+        },
+        fields: {}
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 18:45:33</sys_created_on>
+        <sys_id>45dd7e8a733c72101beb34de475e25de</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Home redirection</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_client_script_45dd7e8a733c72101beb34de475e25de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 21:21:22</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">6403a946837472105d6894b6feaad3dd</application>
+        <file_path/>
+        <instance_id>70a900d01b96fdd439a54089bd4bcb0f</instance_id>
+        <instance_name>dev198543</instance_name>
+        <name>sys_ux_client_script_45dd7e8a733c72101beb34de475e25de</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Order success"&gt;49dd7e8a983c7210fda289ba1ca038e6&lt;/macroponent&gt;&lt;name&gt;Home redirection&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    const route ="safety-home";
+    api.emit('NAV_ITEM_SELECTED', {
+        route,
+        params: {
+            refresh: Date.now()
+        },
+        fields: {}
+    });
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-10-26 18:45:33&lt;/sys_created_on&gt;&lt;sys_id&gt;45dd7e8a733c72101beb34de475e25de&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Home redirection&lt;/sys_name&gt;&lt;sys_package display_value="Safety" source="x_1604622_safety"&gt;6403a946837472105d6894b6feaad3dd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Safety"&gt;6403a946837472105d6894b6feaad3dd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_45dd7e8a733c72101beb34de475e25de&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-10-26 21:21:22&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type/&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-262071176</payload_hash>
+        <record_name>Home redirection</record_name>
+        <reverted_from/>
+        <source>e403a946837472105d6894b6feaad3df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 21:21:22</sys_created_on>
+        <sys_id>3c81270e83fc72105d6894b6feaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a2265b6300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 21:21:22</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>b081270ef2fc7210f8a62cee9c2f73a9</update_guid>
+        <update_guid_history>b081270ef2fc7210f8a62cee9c2f73a9:-262071176,c570eb8af4fc721075fef1ff50a35fc6:-2036850862,f3d8dfce98bc721048379226fce6a3e3:-262071176,3bb8dfce31bc721052d837668b4233b5:2104415171,faa85fceafbc721007eba169446fd9c4:-1785704186,9e77d38e63bc7210b65bcac0d5cc2a44:2100183408,72f6974e00bc7210d1c7933bfd5aa2e1:-242468189,8b65d7ca98bc7210681be8c84f2ab31d:1338300998,8765d7cae4bc7210ecc73120004ac11b:-1725334279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 06:26:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>74af6177d6234ab493a5936053900b61</sys_id>
+        <sys_metadata>45dd7e8a733c72101beb34de475e25de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home redirection</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_scope_delete display_value="">3f628dc2593f470ea1589eabf4246864</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_45dd7e8a733c72101beb34de475e25de</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_45dd7e8a733c72101beb34de475e25de">3c81270e83fc72105d6894b6feaad3a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 06:26:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

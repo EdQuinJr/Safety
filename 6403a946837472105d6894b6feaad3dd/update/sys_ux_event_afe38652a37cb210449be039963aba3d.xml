@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>MY_TASKS_REJECT</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>My tasks reject</label>
+        <props>[
+    {
+        "fieldType": "string",
+        "interfaceApiName": "",
+        "label": "Sys ID",
+        "mandatory": false,
+        "name": "sysId",
+        "readOnly": false,
+        "typeMetadata": null
+    },
+    {
+        "fieldType": "string",
+        "interfaceApiName": "",
+        "label": "Table",
+        "mandatory": false,
+        "name": "table",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Sys ID",
+  "comment" : ""
+}, {
+  "message" : "Table",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 09:11:03</sys_created_on>
+        <sys_id>afe38652a37cb210449be039963aba3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My tasks reject</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_event_afe38652a37cb210449be039963aba3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 09:11:03</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=afe38652a37cb210449be039963aba3d"/>
+</record_update>

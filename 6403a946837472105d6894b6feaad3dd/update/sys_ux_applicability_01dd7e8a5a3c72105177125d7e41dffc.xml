@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1604622_safety.Public</api_name>
+        <description/>
+        <name>Public</name>
+        <role_names/>
+        <roles name="public">b0593b350a0a0aa7001d689e4542dc28</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 18:45:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01dd7e8a5a3c72105177125d7e41dffc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Public</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_applicability_01dd7e8a5a3c72105177125d7e41dffc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 18:45:31</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
