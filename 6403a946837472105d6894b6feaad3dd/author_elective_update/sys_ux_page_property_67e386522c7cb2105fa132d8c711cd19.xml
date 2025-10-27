@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">e7e386526c7cb210773991ff8da15310</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 09:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>67e386522c7cb2105fa132d8c711cd19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_page_property_67e386522c7cb2105fa132d8c711cd19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 09:11:00</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1604622_safety.e7e386526c7cb210773991ff8da15310.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">6403a946837472105d6894b6feaad3dd</application>
+        <file_path/>
+        <instance_id>70a900d01b96fdd439a54089bd4bcb0f</instance_id>
+        <instance_name>dev198543</instance_name>
+        <name>sys_ux_page_property_67e386522c7cb2105fa132d8c711cd19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">e7e386526c7cb210773991ff8da15310</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-27 09:11:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>67e386522c7cb2105fa132d8c711cd19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package><sys_policy/><sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope><sys_update_name>sys_ux_page_property_67e386522c7cb2105fa132d8c711cd19</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-27 09:11:00</sys_updated_on><type>json</type><unique_name>x_1604622_safety.e7e386526c7cb210773991ff8da15310.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>811965144</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:30:49</sys_created_on>
+        <sys_id>e7da5b928334f2105d6894b6feaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a264b20e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:30:49</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>a7da5b92f334f210abdb22148daaac02</update_guid>
+        <update_guid_history>a7da5b92f334f210abdb22148daaac02:811965144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:30:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>072077c9301c41078e541cc4a3eeb139</sys_id>
+        <sys_metadata>67e386522c7cb2105fa132d8c711cd19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_scope_delete display_value="">3f628dc2593f470ea1589eabf4246864</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_67e386522c7cb2105fa132d8c711cd19</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_67e386522c7cb2105fa132d8c711cd19">e7da5b928334f2105d6894b6feaad302</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:30:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

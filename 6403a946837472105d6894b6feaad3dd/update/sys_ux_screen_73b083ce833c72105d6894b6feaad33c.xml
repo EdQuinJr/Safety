@@ -166,7 +166,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>73b083ce833c72105d6894b6feaad33c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
@@ -174,7 +174,7 @@
         <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
         <sys_update_name>sys_ux_screen_73b083ce833c72105d6894b6feaad33c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-27 07:51:52</sys_updated_on>
+        <sys_updated_on>2025-10-27 16:04:11</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=73b083ce833c72105d6894b6feaad33c"/>
 </record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="2be386527f7cb210211d1b829a800041" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1604622_safety">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-27 09:10:59</sys_created_on>
+            <sys_id>afe38652727cb210028fa04e52e2f640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="ebe38652307cb210e33b2ada30aacd40">2be386527f7cb210211d1b829a800041</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-27 09:10:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-27 09:10:59</sys_created_on>
+            <sys_id>e3e38652c47cb2109fa5167e4db7dd41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="ebe38652307cb210e33b2ada30aacd40">2be386527f7cb210211d1b829a800041</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-27 09:10:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-27 09:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2be386527f7cb210211d1b829a800041</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+            <sys_update_name>sys_ui_section_2be386527f7cb210211d1b829a800041</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-27 09:10:59</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_1604622_safety" name="2_custom_portal_approval_x_1604622_safety">ebe38652307cb210e33b2ada30aacd40</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">6403a946837472105d6894b6feaad3dd</application>
+        <file_path/>
+        <instance_id>70a900d01b96fdd439a54089bd4bcb0f</instance_id>
+        <instance_name>dev198543</instance_name>
+        <name>sys_ui_section_2be386527f7cb210211d1b829a800041</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2be386527f7cb210211d1b829a800041" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_1604622_safety"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-27 09:10:59</sys_created_on><sys_id>afe38652727cb210028fa04e52e2f640</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="ebe38652307cb210e33b2ada30aacd40">2be386527f7cb210211d1b829a800041</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-27 09:10:59</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-27 09:10:59</sys_created_on><sys_id>e3e38652c47cb2109fa5167e4db7dd41</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="ebe38652307cb210e33b2ada30aacd40">2be386527f7cb210211d1b829a800041</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-27 09:10:59</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-27 09:10:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2be386527f7cb210211d1b829a800041</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package><sys_policy/><sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope><sys_update_name>sys_ui_section_2be386527f7cb210211d1b829a800041</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-27 09:10:59</sys_updated_on><sys_user/><title>false</title><view display_value="2_custom_portal_approval_x_1604622_safety" name="2_custom_portal_approval_x_1604622_safety">ebe38652307cb210e33b2ada30aacd40</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-424081814</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:54:25</sys_created_on>
+        <sys_id>d94063d68334f2105d6894b6feaad318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a2660bbcf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:54:25</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>994063d68634f2105edbbf6e57e6ab18</update_guid>
+        <update_guid_history>994063d68634f2105edbbf6e57e6ab18:-424081814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:54:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>ba52da73e8a4430c8bd45a82982c8711</sys_id>
+        <sys_metadata>2be386527f7cb210211d1b829a800041</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_parent display_value="Sysapproval Approver">895f61b2f1f322108bb2efdbde054cdd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_scope_delete display_value="">3f628dc2593f470ea1589eabf4246864</sys_scope_delete>
+        <sys_update_name>sys_ui_section_2be386527f7cb210211d1b829a800041</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_2be386527f7cb210211d1b829a800041">d94063d68334f2105d6894b6feaad318</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:54:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

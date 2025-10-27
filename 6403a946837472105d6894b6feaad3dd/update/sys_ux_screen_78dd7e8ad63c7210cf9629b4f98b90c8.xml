@@ -170,7 +170,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>78dd7e8ad63c7210cf9629b4f98b90c8</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Order success Default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
@@ -178,7 +178,7 @@
         <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
         <sys_update_name>sys_ux_screen_78dd7e8ad63c7210cf9629b4f98b90c8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-27 07:51:19</sys_updated_on>
+        <sys_updated_on>2025-10-27 16:06:49</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=78dd7e8ad63c7210cf9629b4f98b90c8"/>
 </record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>asdsadsa</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Safety App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 09:11:02</sys_created_on>
+        <sys_id>abe38652017cb2103598bac65d533c10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety App Config</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_update_name>sys_ux_app_config_abe38652017cb2103598bac65d533c10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 09:11:02</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">6403a946837472105d6894b6feaad3dd</application>
+        <file_path/>
+        <instance_id>70a900d01b96fdd439a54089bd4bcb0f</instance_id>
+        <instance_name>dev198543</instance_name>
+        <name>sys_ux_app_config_abe38652017cb2103598bac65d533c10</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>asdsadsa</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Safety App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-27 09:11:02</sys_created_on><sys_id>abe38652017cb2103598bac65d533c10</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety App Config</sys_name><sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package><sys_policy/><sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope><sys_update_name>sys_ux_app_config_abe38652017cb2103598bac65d533c10</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-27 09:11:02</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-7227029</payload_hash>
+        <record_name>Safety App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:30:49</sys_created_on>
+        <sys_id>b3da5b928334f2105d6894b6feaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a264b22de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:30:49</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>73da5b923134f2101ce275b585f27155</update_guid>
+        <update_guid_history>73da5b923134f2101ce275b585f27155:-7227029</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 15:30:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>31c1c5bda43840548cff1211eca54590</sys_id>
+        <sys_metadata>abe38652017cb2103598bac65d533c10</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety App Config</sys_name>
+        <sys_package display_value="Safety" source="x_1604622_safety">6403a946837472105d6894b6feaad3dd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">6403a946837472105d6894b6feaad3dd</sys_scope>
+        <sys_scope_delete display_value="">3f628dc2593f470ea1589eabf4246864</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_abe38652017cb2103598bac65d533c10</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_abe38652017cb2103598bac65d533c10">b3da5b928334f2105d6894b6feaad355</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 15:30:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
